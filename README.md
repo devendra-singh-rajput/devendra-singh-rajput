@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Devendra Singh Rajput</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-<img align="right" width="400" src="https://dribbble.com/shots/3848914-Programmer-Thomas" alt="coding img">
-
+<!-- <img align="right" width="400" src="https://dribbble.com/shots/3848914-Programmer-Thomas" alt="coding img">
+ -->
+  <img align="right" width="400" src="![image](https://github.com/user-attachments/assets/d8115d28-8837-439d-9b8f-b7b737a1313d)
+" alt="coding img">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devendra-singh-rajput&label=Profile%20views&color=0e75b6&style=flat" alt="devendra-singh-rajput" /> </p>
 
 - 🌱 I’m currently learning **NodeJS**
